@@ -1,0 +1,4 @@
+.ButtonWhole {
+    display: flex;
+    justify-content: space-evenly;
+}
